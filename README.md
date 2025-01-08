@@ -19,3 +19,4 @@ A new Flutter project.
 - logout
 
 ## Note: the hosting is very slow
+## Note: the refresh feature doesnt work on web emulator
